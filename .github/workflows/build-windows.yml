@@ -1,0 +1,64 @@
+ name: Build Windows                                                                                                                                                                                                   
+
+  on:                                                                                                                                                                                                                   
+    push:                                                                                                                                                                                                               
+      tags:                                                                                                                                                                                                             
+        - 'v*'                                                                                                                                                                                                          
+    workflow_dispatch:                                                                                                                                                                                                  
+                                                                                                                                                                                                                        
+  jobs:
+    build-windows:
+      runs-on: windows-latest
+
+      steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pyinstaller
+          pip install insightface onnxruntime opencv-python pillow numpy scikit-learn matplotlib
+
+      - name: Download InsightFace models
+        run: |
+          python -c "
+          from insightface.app import FaceAnalysis
+          app = FaceAnalysis(name='buffalo_l', providers=['CPUExecutionProvider'])
+          app.prepare(ctx_id=-1, det_size=(640, 640))
+          print('Model downloaded successfully')
+          "
+
+      - name: Prepare .insightface folder
+        run: |
+          mkdir -p .insightface/models
+          Copy-Item -Recurse "$env:USERPROFILE\.insightface\models\buffalo_l" ".insightface\models\"
+        shell: pwsh
+
+      - name: Build with PyInstaller
+        run: |
+          pyinstaller --clean WhoIsShe48_windows.spec
+
+      - name: Create ZIP
+        run: |
+          Compress-Archive -Path "dist\WhoIsShe48\*" -DestinationPath "dist\WhoIsShe48-Windows.zip"
+        shell: pwsh
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: WhoIsShe48-Windows
+          path: dist/WhoIsShe48-Windows.zip
+
+      - name: Upload to Release
+        if: startsWith(github.ref, 'refs/tags/')
+        uses: softprops/action-gh-release@v1
+        with:
+          files: dist/WhoIsShe48-Windows.zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
