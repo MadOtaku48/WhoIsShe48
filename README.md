@@ -29,7 +29,7 @@ WhoIsShe48은 48그룹(AKB48, NMB48, HKT48, STU48) 멤버들의 얼굴을 인식
 
 | 플랫폼 | 다운로드 | 크기 |
 |--------|----------|------|
-| macOS | [WhoIsShe48-1.0.3-macOS.dmg](../../releases/download/v1.0.3/WhoIsShe48-1.0.3-macOS.dmg) | 2.1GB |
+| macOS | [WhoIsShe48-1.0.3-macOS.dmg](../../releases/download/v1.0.3/WhoIsShe48-1.0.3-macOS.dmg) | 767MB |
 
 **v1.0.3 변경사항:**
 - 최신 멤버 데이터 업데이트 (AKB48 21기생 포함)
@@ -105,7 +105,7 @@ WhoIsShe48は、48グループ（AKB48、NMB48、HKT48、STU48）のメンバー
 
 | プラットフォーム | ダウンロード | サイズ |
 |-----------------|-------------|--------|
-| macOS | [WhoIsShe48-1.0.3-macOS.dmg](../../releases/download/v1.0.3/WhoIsShe48-1.0.3-macOS.dmg) | 2.1GB |
+| macOS | [WhoIsShe48-1.0.3-macOS.dmg](../../releases/download/v1.0.3/WhoIsShe48-1.0.3-macOS.dmg) | 767MB |
 
 **v1.0.3の変更点:**
 - 最新メンバーデータ更新（AKB48 21期生を含む）
@@ -181,7 +181,7 @@ WhoIsShe48 is a face recognition application that identifies members from 48 Gro
 
 | Platform | Download | Size |
 |----------|----------|------|
-| macOS | [WhoIsShe48-1.0.3-macOS.dmg](../../releases/download/v1.0.3/WhoIsShe48-1.0.3-macOS.dmg) | 2.1GB |
+| macOS | [WhoIsShe48-1.0.3-macOS.dmg](../../releases/download/v1.0.3/WhoIsShe48-1.0.3-macOS.dmg) | 767MB |
 
 **v1.0.3 Changes:**
 - Updated member data (including AKB48 21st generation)
