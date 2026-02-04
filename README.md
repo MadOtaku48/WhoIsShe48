@@ -25,12 +25,16 @@ WhoIsShe48은 48그룹(AKB48, NMB48, HKT48, STU48) 멤버들의 얼굴을 인식
 
 ### 다운로드
 
-#### 최신 릴리즈: v1.0.0
+#### 최신 릴리즈: v1.0.3 (2025-02-05)
 
-| 플랫폼 | 다운로드 | 크기 | 체크섬 |
-|--------|----------|------|--------|
-| macOS | [WhoIsShe48-1.0.0-macOS.dmg](../../releases/download/v1.0.0/WhoIsShe48-1.0.0-macOS.dmg) | 1.3GB | [SHA256](../../releases/download/v1.0.0/checksums.txt) |
-| macOS (ZIP) | [WhoIsShe48-1.0.0-macOS.zip](../../releases/download/v1.0.0/WhoIsShe48-1.0.0-macOS.zip) | 1.3GB | [SHA256](../../releases/download/v1.0.0/checksums.txt) |
+| 플랫폼 | 다운로드 | 크기 |
+|--------|----------|------|
+| macOS | [WhoIsShe48-1.0.3-macOS.dmg](../../releases/download/v1.0.3/WhoIsShe48-1.0.3-macOS.dmg) | 2.1GB |
+
+**v1.0.3 변경사항:**
+- 최신 멤버 데이터 업데이트 (AKB48 21기생 포함)
+- macOS 호환성 개선
+- 빌드 시스템 개선
 
 ### 시스템 요구사항
 
@@ -97,12 +101,16 @@ WhoIsShe48は、48グループ（AKB48、NMB48、HKT48、STU48）のメンバー
 
 ### ダウンロード
 
-#### 最新リリース：v1.0.0
+#### 最新リリース：v1.0.3 (2025-02-05)
 
-| プラットフォーム | ダウンロード | サイズ | チェックサム |
-|-----------------|-------------|--------|-------------|
-| macOS | [WhoIsShe48-1.0.0-macOS.dmg](../../releases/download/v1.0.0/WhoIsShe48-1.0.0-macOS.dmg) | 1.3GB | [SHA256](../../releases/download/v1.0.0/checksums.txt) |
-| macOS (ZIP) | [WhoIsShe48-1.0.0-macOS.zip](../../releases/download/v1.0.0/WhoIsShe48-1.0.0-macOS.zip) | 1.3GB | [SHA256](../../releases/download/v1.0.0/checksums.txt) |
+| プラットフォーム | ダウンロード | サイズ |
+|-----------------|-------------|--------|
+| macOS | [WhoIsShe48-1.0.3-macOS.dmg](../../releases/download/v1.0.3/WhoIsShe48-1.0.3-macOS.dmg) | 2.1GB |
+
+**v1.0.3の変更点:**
+- 最新メンバーデータ更新（AKB48 21期生を含む）
+- macOS互換性の改善
+- ビルドシステムの改善
 
 ### システム要件
 
@@ -169,12 +177,16 @@ WhoIsShe48 is a face recognition application that identifies members from 48 Gro
 
 ### Download
 
-#### Latest Release: v1.0.0
+#### Latest Release: v1.0.3 (2025-02-05)
 
-| Platform | Download | Size | Checksum |
-|----------|----------|------|----------|
-| macOS | [WhoIsShe48-1.0.0-macOS.dmg](../../releases/download/v1.0.0/WhoIsShe48-1.0.0-macOS.dmg) | 1.3GB | [SHA256](../../releases/download/v1.0.0/checksums.txt) |
-| macOS (ZIP) | [WhoIsShe48-1.0.0-macOS.zip](../../releases/download/v1.0.0/WhoIsShe48-1.0.0-macOS.zip) | 1.3GB | [SHA256](../../releases/download/v1.0.0/checksums.txt) |
+| Platform | Download | Size |
+|----------|----------|------|
+| macOS | [WhoIsShe48-1.0.3-macOS.dmg](../../releases/download/v1.0.3/WhoIsShe48-1.0.3-macOS.dmg) | 2.1GB |
+
+**v1.0.3 Changes:**
+- Updated member data (including AKB48 21st generation)
+- Improved macOS compatibility
+- Build system improvements
 
 ### System Requirements
 
