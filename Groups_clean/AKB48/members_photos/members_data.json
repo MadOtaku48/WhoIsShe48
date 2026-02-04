@@ -1,0 +1,579 @@
+[
+  {
+    "id": "110",
+    "name": "岩立 沙穂",
+    "fileName": "110_岩立_沙穂.jpg",
+    "localPath": "/Users/suknamgoong/face/akb48-face-classifier/members_photos/110_岩立_沙穂.jpg",
+    "info": {},
+    "name_ko": "이와타테 사호",
+    "name_en": "Iwatate Saho",
+    "generation": "13期生"
+  },
+  {
+    "id": "152",
+    "name": "福岡 聖菜",
+    "fileName": "152_福岡_聖菜.jpg",
+    "localPath": "/Users/suknamgoong/face/akb48-face-classifier/members_photos/152_福岡_聖菜.jpg",
+    "info": {},
+    "name_ko": "후쿠오카 세이나",
+    "name_en": "Fukuoka Seina",
+    "generation": "15期生"
+  },
+  {
+    "id": "153",
+    "name": "向井地 美音",
+    "fileName": "153_向井地_美音.jpg",
+    "localPath": "/Users/suknamgoong/face/akb48-face-classifier/members_photos/153_向井地_美音.jpg",
+    "info": {},
+    "name_ko": "무카이치 미온",
+    "name_en": "Mukaichi Mion",
+    "generation": "15期生"
+  },
+  {
+    "id": "180",
+    "name": "小栗 有以",
+    "fileName": "180_小栗_有以.jpg",
+    "localPath": "/Users/suknamgoong/face/akb48-face-classifier/members_photos/180_小栗_有以.jpg",
+    "info": {},
+    "name_ko": "오구리 유이",
+    "name_en": "Oguri Yui",
+    "generation": "Team8"
+  },
+  {
+    "id": "210",
+    "name": "倉野尾 成美",
+    "fileName": "210_倉野尾_成美.jpg",
+    "localPath": "/Users/suknamgoong/face/akb48-face-classifier/members_photos/210_倉野尾_成美.jpg",
+    "info": {},
+    "name_ko": "쿠라노오 나루미",
+    "name_en": "Kuranoo Narumi",
+    "generation": "Team8"
+  },
+  {
+    "id": "1073",
+    "name": "坂川 陽香",
+    "fileName": "1073_坂川_陽香.jpg",
+    "localPath": "/Users/suknamgoong/face/akb48-face-classifier/members_photos/1073_坂川_陽香.jpg",
+    "info": {},
+    "name_ko": "사카가와 하루카",
+    "name_en": "Sakagawa Haruka",
+    "generation": "Team8"
+  },
+  {
+    "id": "202",
+    "name": "下尾 みう",
+    "fileName": "202_下尾_みう.jpg",
+    "localPath": "/Users/suknamgoong/face/akb48-face-classifier/members_photos/202_下尾_みう.jpg",
+    "info": {},
+    "name_ko": "시타오 미우",
+    "name_en": "Shitao Miu",
+    "generation": "Team8"
+  },
+  {
+    "id": "178",
+    "name": "髙橋 彩音",
+    "fileName": "178_髙橋_彩音.jpg",
+    "localPath": "/Users/suknamgoong/face/akb48-face-classifier/members_photos/178_髙橋_彩音.jpg",
+    "info": {},
+    "name_ko": "타카하시 아야네",
+    "name_en": "Takahashi Ayane",
+    "generation": "Team8"
+  },
+  {
+    "id": "1069",
+    "name": "徳永 羚海",
+    "fileName": "1069_徳永_羚海.jpg",
+    "localPath": "/Users/suknamgoong/face/akb48-face-classifier/members_photos/1069_徳永_羚海.jpg",
+    "info": {},
+    "name_ko": "토쿠나가 레미",
+    "name_en": "Tokunaga Remi",
+    "generation": "Team8"
+  },
+  {
+    "id": "192",
+    "name": "永野 芹佳",
+    "fileName": "192_永野_芹佳.jpg",
+    "localPath": "/Users/suknamgoong/face/akb48-face-classifier/members_photos/192_永野_芹佳.jpg",
+    "info": {},
+    "name_ko": "나가노 세리카",
+    "name_en": "Nagano Serika",
+    "generation": "Team8"
+  },
+  {
+    "id": "183",
+    "name": "橋本 陽菜",
+    "fileName": "183_橋本_陽菜.jpg",
+    "localPath": "/Users/suknamgoong/face/akb48-face-classifier/members_photos/183_橋本_陽菜.jpg",
+    "info": {},
+    "name_ko": "하시모토 하루나",
+    "name_en": "Hashimoto Haruna",
+    "generation": "Team8"
+  },
+  {
+    "id": "289",
+    "name": "千葉 恵里",
+    "fileName": "289_千葉_恵里.jpg",
+    "localPath": "/Users/suknamgoong/face/akb48-face-classifier/members_photos/289_千葉_恵里.jpg",
+    "info": {},
+    "name_ko": "치바 에리이",
+    "name_en": "Chiba Erii",
+    "generation": "ドラフト2期生"
+  },
+  {
+    "id": "1013",
+    "name": "鈴木 くるみ",
+    "fileName": "1013_鈴木_くるみ.jpg",
+    "localPath": "/Users/suknamgoong/face/akb48-face-classifier/members_photos/1013_鈴木_くるみ.jpg",
+    "info": {},
+    "name_ko": "스즈키 쿠루미",
+    "name_en": "Suzuki Kurumi",
+    "generation": "16期生"
+  },
+  {
+    "id": "1014",
+    "name": "田口 愛佳",
+    "fileName": "1014_田口_愛佳.jpg",
+    "localPath": "/Users/suknamgoong/face/akb48-face-classifier/members_photos/1014_田口_愛佳.jpg",
+    "info": {},
+    "name_ko": "타구치 마나카",
+    "name_en": "Taguchi Manaka",
+    "generation": "16期生"
+  },
+  {
+    "id": "1016",
+    "name": "長友 彩海",
+    "fileName": "1016_長友_彩海.jpg",
+    "localPath": "/Users/suknamgoong/face/akb48-face-classifier/members_photos/1016_長友_彩海.jpg",
+    "info": {},
+    "name_ko": "나가토모 아야미",
+    "name_en": "Nagatomo Ayami",
+    "generation": "16期生"
+  },
+  {
+    "id": "1022",
+    "name": "武藤 小麟",
+    "fileName": "1022_武藤_小麟.jpg",
+    "localPath": "/Users/suknamgoong/face/akb48-face-classifier/members_photos/1022_武藤_小麟.jpg",
+    "info": {},
+    "name_ko": "무토 오린",
+    "name_en": "Muto Orin",
+    "generation": "16期生"
+  },
+  {
+    "id": "1024",
+    "name": "山内 瑞葵",
+    "fileName": "1024_山内_瑞葵.jpg",
+    "localPath": "/Users/suknamgoong/face/akb48-face-classifier/members_photos/1024_山内_瑞葵.jpg",
+    "info": {},
+    "name_ko": "야마우치 미즈키",
+    "name_en": "Yamauchi Mizuki",
+    "generation": "16期生"
+  },
+  {
+    "id": "1048",
+    "name": "大盛 真歩",
+    "fileName": "1048_大盛_真歩.jpg",
+    "localPath": "/Users/suknamgoong/face/akb48-face-classifier/members_photos/1048_大盛_真歩.jpg",
+    "info": {},
+    "name_ko": "오오모리 마호",
+    "name_en": "Oomori Maho",
+    "generation": "ドラフト3期生"
+  },
+  {
+    "id": "1074",
+    "name": "太田 有紀",
+    "fileName": "1074_太田_有紀.jpg",
+    "localPath": "/Users/suknamgoong/face/akb48-face-classifier/members_photos/1074_太田_有紀.jpg",
+    "info": {},
+    "name_ko": "오오타 유키",
+    "name_en": "Ota Yuki",
+    "generation": "17期生"
+  },
+  {
+    "id": "1076",
+    "name": "佐藤 綺星",
+    "fileName": "1076_佐藤_綺星.jpg",
+    "localPath": "/Users/suknamgoong/face/akb48-face-classifier/members_photos/1076_佐藤_綺星.jpg",
+    "info": {},
+    "name_ko": "사토 아이리",
+    "name_en": "Sato Airi",
+    "generation": "17期生"
+  },
+  {
+    "id": "1077",
+    "name": "橋本 恵理子",
+    "fileName": "1077_橋本_恵理子.jpg",
+    "localPath": "/Users/suknamgoong/face/akb48-face-classifier/members_photos/1077_橋本_恵理子.jpg",
+    "info": {},
+    "name_ko": "하시모토 에리코",
+    "name_en": "Hashimoto Eriko",
+    "generation": "17期生"
+  },
+  {
+    "id": "1079",
+    "name": "畠山 希美",
+    "fileName": "1079_畠山_希美.jpg",
+    "localPath": "/Users/suknamgoong/face/akb48-face-classifier/members_photos/1079_畠山_希美.jpg",
+    "info": {},
+    "name_ko": "하타케야마 노조미",
+    "name_en": "Hatakeyama Nozomi",
+    "generation": "17期生"
+  },
+  {
+    "id": "1080",
+    "name": "平田 侑希",
+    "fileName": "1080_平田_侑希.jpg",
+    "localPath": "/Users/suknamgoong/face/akb48-face-classifier/members_photos/1080_平田_侑希.jpg",
+    "info": {},
+    "name_ko": "히라타 유키",
+    "name_en": "Hirata Yuki",
+    "generation": "17期生"
+  },
+  {
+    "id": "1081",
+    "name": "布袋 百椛",
+    "fileName": "1081_布袋_百椛.jpg",
+    "localPath": "/Users/suknamgoong/face/akb48-face-classifier/members_photos/1081_布袋_百椛.jpg",
+    "info": {},
+    "name_ko": "호테이 모모카",
+    "name_en": "Hotei Momoka",
+    "generation": "17期生"
+  },
+  {
+    "id": "1082",
+    "name": "正鋳 真優",
+    "fileName": "1082_正鋳_真優.jpg",
+    "localPath": "/Users/suknamgoong/face/akb48-face-classifier/members_photos/1082_正鋳_真優.jpg",
+    "info": {},
+    "name_ko": "마사이 마유",
+    "name_en": "Masai Mayu",
+    "generation": "17期生"
+  },
+  {
+    "id": "1083",
+    "name": "水島 美結",
+    "fileName": "1083_水島_美結.jpg",
+    "localPath": "/Users/suknamgoong/face/akb48-face-classifier/members_photos/1083_水島_美結.jpg",
+    "info": {},
+    "name_ko": "미즈시마 미유",
+    "name_en": "Mizushima Miyu",
+    "generation": "17期生"
+  },
+  {
+    "id": "1084",
+    "name": "山﨑 空",
+    "fileName": "1084_山﨑_空.jpg",
+    "localPath": "/Users/suknamgoong/face/akb48-face-classifier/members_photos/1084_山﨑_空.jpg",
+    "info": {},
+    "name_ko": "야마자키 소라",
+    "name_en": "Yamazaki Sora",
+    "generation": "17期生"
+  },
+  {
+    "id": "1085",
+    "name": "秋山 由奈",
+    "fileName": "1085_秋山_由奈.jpg",
+    "localPath": "/Users/suknamgoong/face/akb48-face-classifier/members_photos/1085_秋山_由奈.jpg",
+    "info": {},
+    "name_ko": "아키야마 유나",
+    "name_en": "Akiyama Yuna",
+    "generation": "18期生"
+  },
+  {
+    "id": "1086",
+    "name": "新井 彩永",
+    "fileName": "1086_新井_彩永.jpg",
+    "localPath": "/Users/suknamgoong/face/akb48-face-classifier/members_photos/1086_新井_彩永.jpg",
+    "info": {},
+    "name_ko": "아라이 사에",
+    "name_en": "Arai Sae",
+    "generation": "18期生"
+  },
+  {
+    "id": "1087",
+    "name": "工藤 華純",
+    "fileName": "1087_工藤_華純.jpg",
+    "localPath": "/Users/suknamgoong/face/akb48-face-classifier/members_photos/1087_工藤_華純.jpg",
+    "info": {},
+    "name_ko": "쿠도 카스미",
+    "name_en": "Kudo Kasumi",
+    "generation": "18期生"
+  },
+  {
+    "id": "1088",
+    "name": "久保 姫菜乃",
+    "fileName": "1088_久保_姫菜乃.jpg",
+    "localPath": "/Users/suknamgoong/face/akb48-face-classifier/members_photos/1088_久保_姫菜乃.jpg",
+    "info": {},
+    "name_ko": "쿠보 히나노",
+    "name_en": "Kubo Hinano",
+    "generation": "18期生"
+  },
+  {
+    "id": "1089",
+    "name": "迫 由芽実",
+    "fileName": "1089_迫_由芽実.jpg",
+    "localPath": "/Users/suknamgoong/face/akb48-face-classifier/members_photos/1089_迫_由芽実.jpg",
+    "info": {},
+    "name_ko": "사코 유메미",
+    "name_en": "Sako Yumemi",
+    "generation": "18期生"
+  },
+  {
+    "id": "1090",
+    "name": "成田 香姫奈",
+    "fileName": "1090_成田_香姫奈.jpg",
+    "localPath": "/Users/suknamgoong/face/akb48-face-classifier/members_photos/1090_成田_香姫奈.jpg",
+    "info": {},
+    "name_ko": "나리타 코히나",
+    "name_en": "Narita Kohina",
+    "generation": "18期生"
+  },
+  {
+    "id": "1091",
+    "name": "八木 愛月",
+    "fileName": "1091_八木_愛月.jpg",
+    "localPath": "/Users/suknamgoong/face/akb48-face-classifier/members_photos/1091_八木_愛月.jpg",
+    "info": {},
+    "name_ko": "야기 아즈키",
+    "name_en": "Yagi Azuki",
+    "generation": "18期生"
+  },
+  {
+    "id": "1092",
+    "name": "山口 結愛",
+    "fileName": "1092_山口_結愛.jpg",
+    "localPath": "/Users/suknamgoong/face/akb48-face-classifier/members_photos/1092_山口_結愛.jpg",
+    "info": {},
+    "name_ko": "야마구치 유이",
+    "name_en": "Yamaguchi Yui",
+    "generation": "18期生"
+  },
+  {
+    "id": "1093",
+    "name": "伊藤 百花",
+    "fileName": "1093_伊藤_百花.jpg",
+    "localPath": "/Users/suknamgoong/face/akb48-face-classifier/members_photos/1093_伊藤_百花.jpg",
+    "info": {},
+    "name_ko": "이토 모모카",
+    "name_en": "Ito Momoka",
+    "generation": "19期生"
+  },
+  {
+    "id": "1094",
+    "name": "奥本 カイリ",
+    "fileName": "1094_奥本_カイリ.jpg",
+    "localPath": "/Users/suknamgoong/face/akb48-face-classifier/members_photos/1094_奥本_カイリ.jpg",
+    "info": {},
+    "name_ko": "오쿠모토 카이리",
+    "name_en": "Okumoto Kairi",
+    "generation": "19期生"
+  },
+  {
+    "id": "1095",
+    "name": "川村 結衣",
+    "fileName": "1095_川村_結衣.jpg",
+    "localPath": "/Users/suknamgoong/face/akb48-face-classifier/members_photos/1095_川村_結衣.jpg",
+    "info": {},
+    "name_ko": "카와무라 유이",
+    "name_en": "Kawamura Yui",
+    "generation": "19期生"
+  },
+  {
+    "id": "1096",
+    "name": "白鳥 沙怜",
+    "fileName": "1096_白鳥_沙怜.jpg",
+    "localPath": "/Users/suknamgoong/face/akb48-face-classifier/members_photos/1096_白鳥_沙怜.jpg",
+    "info": {},
+    "name_ko": "시라토리 사리",
+    "name_en": "Shiratori Sari",
+    "generation": "19期生"
+  },
+  {
+    "id": "1097",
+    "name": "花田 藍衣",
+    "fileName": "1097_花田_藍衣.jpg",
+    "localPath": "/Users/suknamgoong/face/akb48-face-classifier/members_photos/1097_花田_藍衣.jpg",
+    "info": {},
+    "name_ko": "하나다 메이",
+    "name_en": "Hanada Mei",
+    "generation": "19期生"
+  },
+  {
+    "id": "1098",
+    "name": "大賀 彩姫",
+    "fileName": "1098_大賀_彩姫.jpg",
+    "localPath": "/Users/suknamgoong/face/akb48-face-classifier/members_photos/1098_大賀_彩姫.jpg",
+    "info": {},
+    "name_ko": "오오가 사키",
+    "name_en": "Oga Saki",
+    "generation": "20期研究生"
+  },
+  {
+    "id": "1099",
+    "name": "近藤 沙樹",
+    "fileName": "1099_近藤_沙樹.jpg",
+    "localPath": "/Users/suknamgoong/face/akb48-face-classifier/members_photos/1099_近藤_沙樹.jpg",
+    "info": {},
+    "name_ko": "콘도 사키",
+    "name_en": "Kondo Saki",
+    "generation": "20期研究生"
+  },
+  {
+    "id": "1100",
+    "name": "丸山 ひなた",
+    "fileName": "1100_丸山_ひなた.jpg",
+    "localPath": "/Users/suknamgoong/face/akb48-face-classifier/members_photos/1100_丸山_ひなた.jpg",
+    "info": {},
+    "name_ko": "마루야마 히나타",
+    "name_en": "Maruyama Hinata",
+    "generation": "20期研究生"
+  },
+  {
+    "id": "204",
+    "name": "行天 優莉奈",
+    "fileName": "204_行天_優莉奈.jpg",
+    "localPath": "/Users/suknamgoong/face/akb48-face-classifier/members_photos/204_行天_優莉奈.jpg",
+    "info": {},
+    "name_ko": "교텐 유리나",
+    "name_en": "Gyoten Yurina"
+  },
+  {
+    "id": "1010",
+    "name": "黒須 遥香",
+    "fileName": "1010_黒須_遥香.jpg",
+    "localPath": "/Users/suknamgoong/face/akb48-face-classifier/members_photos/1010_黒須_遥香.jpg",
+    "info": {},
+    "name_ko": "쿠로스 하루카",
+    "name_en": "Kurosu Haruka"
+  },
+  {
+    "id": "1025",
+    "name": "山根 涼羽",
+    "fileName": "1025_山根_涼羽.jpg",
+    "localPath": "/Users/suknamgoong/face/akb48-face-classifier/members_photos/1025_山根_涼羽.jpg",
+    "info": {},
+    "name_ko": "야마네 스즈하",
+    "name_en": "Yamane Suzuha"
+  },
+  {
+    "id": "1101",
+    "name": "髙橋 舞桜",
+    "fileName": "1101_髙橋_舞桜.jpg",
+    "localPath": "/Users/suknamgoong/face/akb48-face-classifier/Groups/AKB48/members_photos/1101_髙橋_舞桜.jpg",
+    "info": {
+      "generation": "21期研究生"
+    },
+    "name_ko": "타카하시 마오",
+    "name_en": "Takahashi Mao",
+    "generation": "21期研究生"
+  },
+  {
+    "id": "1102",
+    "name": "田中 沙友利",
+    "fileName": "1102_田中_沙友利.jpg",
+    "localPath": "/Users/suknamgoong/face/akb48-face-classifier/Groups/AKB48/members_photos/1102_田中_沙友利.jpg",
+    "info": {
+      "generation": "21期研究生"
+    },
+    "name_ko": "타나카 사유리",
+    "name_en": "Tanaka Sayuri",
+    "generation": "21期研究生"
+  },
+  {
+    "id": "1103",
+    "name": "牧戸 愛茉",
+    "fileName": "1103_牧戸_愛茉.jpg",
+    "localPath": "/Users/suknamgoong/face/akb48-face-classifier/Groups/AKB48/members_photos/1103_牧戸_愛茉.jpg",
+    "info": {
+      "generation": "21期研究生"
+    },
+    "name_ko": "마키토 에마",
+    "name_en": "Makito Ema",
+    "generation": "21期研究生"
+  },
+  {
+    "id": "1104",
+    "name": "森川 優",
+    "fileName": "1104_森川_優.jpg",
+    "localPath": "/Users/suknamgoong/face/akb48-face-classifier/Groups/AKB48/members_photos/1104_森川_優.jpg",
+    "info": {
+      "generation": "21期研究生"
+    },
+    "name_ko": "모리카와 유우",
+    "name_en": "Morikawa Yu",
+    "generation": "21期研究生"
+  },
+  {
+    "id": "1105",
+    "name": "渡邉 葵心",
+    "fileName": "1105_渡邉_葵心.jpg",
+    "localPath": "/Users/suknamgoong/face/akb48-face-classifier/Groups/AKB48/members_photos/1105_渡邉_葵心.jpg",
+    "info": {
+      "generation": "21期研究生"
+    },
+    "name_ko": "와타나베 키코",
+    "name_en": "Watanabe Kiko",
+    "generation": "21期研究生"
+  },
+  {
+    "id": "A001_OG",
+    "name": "前田 敦子",
+    "fileName": "A001_OG_前田_敦子.jpg",
+    "localPath": "/Users/suknamgoong/face/akb48-face-classifier/members_photos/A001_OG_前田_敦子.jpg",
+    "info": {
+      "team": "OG (元Team A)",
+      "generation": 1,
+      "graduation_date": "2012-08-27",
+      "nickname": "あっちゃん"
+    },
+    "name_ko": "마에다 아츠코",
+    "name_en": "Maeda Atsuko",
+    "generation": "OG (1期生)"
+  },
+  {
+    "id": "A002_OG",
+    "name": "高橋 みなみ",
+    "fileName": "A002_OG_高橋_みなみ.jpg",
+    "localPath": "/Users/suknamgoong/face/akb48-face-classifier/members_photos/A002_OG_高橋_みなみ.jpg",
+    "info": {
+      "team": "OG (元Team A)",
+      "generation": 1,
+      "graduation_date": "2016-04-08",
+      "nickname": "たかみな"
+    },
+    "name_ko": "타카하시 미나미",
+    "name_en": "Takahashi Minami",
+    "generation": "OG (1期生)"
+  },
+  {
+    "id": "H001_OG",
+    "name": "指原 莉乃",
+    "fileName": "H001_OG_指原_莉乃.jpg",
+    "localPath": "/Users/suknamgoong/face/akb48-face-classifier/members_photos/H001_OG_指原_莉乃.jpg",
+    "info": {
+      "team": "OG (元HKT48/Team H)",
+      "generation": 5,
+      "graduation_date": "2019-04-28",
+      "nickname": "さっしー"
+    },
+    "name_ko": "사시하라 리노",
+    "name_en": "Sashihara Rino",
+    "generation": "OG (5期生)"
+  },
+  {
+    "id": "A003_OG",
+    "name": "小嶋 陽菜",
+    "fileName": "A003_OG_小嶋_陽菜.jpg",
+    "localPath": "/Users/suknamgoong/face/akb48-face-classifier/members_photos/A003_OG_小嶋_陽菜.jpg",
+    "info": {
+      "team": "OG (元Team A)",
+      "generation": 1,
+      "graduation_date": "2017-04-19",
+      "nickname": "こじはる、にゃんにゃん"
+    },
+    "name_ko": "코지마 하루나",
+    "name_en": "Kojima Haruna",
+    "generation": "OG (1期生)"
+  }
+]

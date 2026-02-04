@@ -1,0 +1,15 @@
+# Core dependencies
+numpy>=1.21.0
+opencv-python>=4.5.0
+Pillow>=9.0.0
+scikit-learn>=1.0.0
+
+# InsightFace and dependencies
+insightface>=0.7.3
+onnxruntime>=1.16.0
+
+# GUI
+# tkinter is included with Python, no need to install
+
+# For building executable
+pyinstaller>=6.0.0
